@@ -1,6 +1,6 @@
 # Class Projects
 
-This repository serves as an archive of a few of the class projects that I've worked on while achieving my Computer Science degree. Most of the programs are written in either [C](https://en.wikipedia.org/wiki/C_(programming_language) or [C++](https://en.wikipedia.org/wiki/C++). Below is a brief description of each course and the projects I've included in this repository.
+This repository serves as an archive of a few of the class projects that I've worked on while achieving my Computer Science degree. Most of the programs are written in either [C](https://en.wikipedia.org/wiki/C_\(programming_language\)) or [C++](https://en.wikipedia.org/wiki/C++). Below is a brief description of each course and the projects I've included in this repository.
 
 ### CS-201
 
